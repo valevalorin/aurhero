@@ -1,0 +1,2 @@
+class DbConnectController < ApplicationController
+end
